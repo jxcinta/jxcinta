@@ -1,0 +1,4 @@
+- 👋 Hi! I’m Jacinta, I'm currently studying for my MSc in Physics at UoS.
+- I'm interested in machine learning and data science and I can code in Python.
+- My work here is all the projects I've worked on - ranging from projects I completed at uni, to personal extracurricualr projects I've undertaken to improve my understanding.
+- Enjoy! 😊
