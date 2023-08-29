@@ -1,5 +1,5 @@
 - 👋 Hi! I’m Jacinta
 - I've worked as a machine learning engineer for the last two years, and I graduated with a Masters's in Physics. I also have developed web apps (Javascript, React) and I hope to include some extra projects that demonstrate those skills.
-- My work here is all the projects I've worked on - ranging from projects I completed at uni, to personal projects I've undertaken to improve my understanding.
-- Some projects are from earlier days when I knew less about programming, and the more recent projects like the fast rcnn object detection repo demonstrates my up-to-date skills.
+- My work here are projects ranging from projects I completed at uni, to personal projects I've undertaken to improve my understanding.
+- Some projects are from earlier days when I knew less about programming, and the more recent projects like the fast rcnn object detection repo demonstrates my current skills.
 - Enjoy! 😊
